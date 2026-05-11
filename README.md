@@ -21,6 +21,17 @@ This repository contains Playwright JavaScript examples and exercises.
   - `VS_Code_keyboard_shortcut_mac.md` - VS Code keyboard shortcuts for macOS
   - `VS_Code_keyboard_shortcut_windows.md` - VS Code keyboard shortcuts for Windows
 
+- `CH_4_Javascript_Concepts/` - Chapter 4: JavaScript Concepts
+  - `const_explained.js` - Explaining JavaScript const keyword
+  - `functions.js` - JavaScript functions examples
+  - `Hoisting.js` - JavaScript hoisting concept
+  - `hoisting_fn.js` - Function hoisting examples
+  - `let_peope_love.js` - Why developers love let keyword
+  - `let_scope.js` - Let keyword scoping examples
+  - `var_explained.js` - Explaining JavaScript var keyword
+  - `var_functionscope.js` - Var function scoping examples
+  - `var_let_const.js` - Comparison of var, let, and const
+
 ## Getting Started
 
 1. Install Node.js (if not already installed)
