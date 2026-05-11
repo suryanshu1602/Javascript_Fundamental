@@ -18,6 +18,8 @@ This repository contains Playwright JavaScript examples and exercises.
   - `Identifier_Rules2.js` - Additional identifier rules and literal examples
   - `Comment.js` - JavaScript commenting examples
   - `js_identifier_rules.js` - Comprehensive JavaScript identifier rules
+  - `VS_Code_keyboard_shortcut_mac.md` - VS Code keyboard shortcuts for macOS
+  - `VS_Code_keyboard_shortcut_windows.md` - VS Code keyboard shortcuts for Windows
 
 ## Getting Started
 
