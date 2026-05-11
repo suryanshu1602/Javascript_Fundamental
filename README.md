@@ -10,6 +10,9 @@ This repository contains Playwright JavaScript examples and exercises.
   - `JS_Verify_Setup.js` - Environment setup verification
   - `JS.js` - JavaScript fundamentals for Playwright
 
+- `CH_2_JS_Concepts/` - Chapter 2: JavaScript Concepts
+  - `js.js` - Simple JavaScript variable declaration and reassignment example
+
 ## Getting Started
 
 1. Install Node.js (if not already installed)
