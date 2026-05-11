@@ -16,6 +16,8 @@ This repository contains Playwright JavaScript examples and exercises.
 - `CH_3_Identifier_Literials/` - Chapter 3: Identifier Rules and Literals
   - `Identifier_Rules.js` - JavaScript identifier naming rules examples
   - `Identifier_Rules2.js` - Additional identifier rules and literal examples
+  - `Comment.js` - JavaScript commenting examples
+  - `js_identifier_rules.js` - Comprehensive JavaScript identifier rules
 
 ## Getting Started
 
