@@ -13,6 +13,10 @@ This repository contains Playwright JavaScript examples and exercises.
 - `CH_2_JS_Concepts/` - Chapter 2: JavaScript Concepts
   - `js.js` - Simple JavaScript variable declaration and reassignment example
 
+- `CH_3_Identifier_Literials/` - Chapter 3: Identifier Rules and Literals
+  - `Identifier_Rules.js` - JavaScript identifier naming rules examples
+  - `Identifier_Rules2.js` - Additional identifier rules and literal examples
+
 ## Getting Started
 
 1. Install Node.js (if not already installed)
