@@ -1,0 +1,11 @@
+{
+  "folders": [
+    { "path": "." },
+    { "path": "CH_1_Basic" },
+    { "path": "CH_2_JS_Concepts" },
+    { "path": "CH_3_Identifier_Literials" },
+    { "path": "CH_4_Javascript_Concepts" },
+    { "path": ".sixth" }
+  ],
+  "settings": {}
+}
