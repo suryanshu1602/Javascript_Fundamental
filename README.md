@@ -61,7 +61,16 @@ This repository contains Playwright JavaScript examples and exercises.
    - `Arithmetic_OP.js` - Arithmetic operators (+, -, *, /) examples
    - `Modulus_OP.js` - Modulus operator (%) examples
    - `Expo_OP.js` - Exponentiation operator (**) examples
-   - `IQ.js` - Operator precedence and IQ test examples
+   - `IQ.js` - Compound assignment operators examples
+   - `Comparsion_OP.js` - Comparison operators (==, !=, >, <, >=, <=) examples
+   - `Comparsion_Strict_loose.js` - Strict vs loose comparison examples
+   - `Confusing_Comparsion.js` - Tricky comparison examples that confuse developers
+   - `IQ_Loose_Strict.js` - More examples of loose vs strict equality
+   - `Logical_Op.js` - Logical operators (&&, ||, !) examples
+   - `Null_Op.js` - Nullish coalescing operator (??), optional chaining (?.), and null checks
+   - `String_Con_Op.js` - String concatenation examples
+   - `Ternary_Op.js` - Ternary operator (condition ? expr1 : expr2) examples
+   - `Type_Op.js` - typeof operator and instanceof examples
 
 ## Requirements
 
