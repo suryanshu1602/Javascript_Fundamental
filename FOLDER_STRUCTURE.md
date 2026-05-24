@@ -110,6 +110,12 @@ Playwright_JS/
 │   ├── LEAP_YEAR.js            # Leap year checker with if-else
 │   ├── REAL_IF_ELSE.js         # Real if-else scenarios
 │   └── README.md               # Placeholder for if-else examples
+├── CH_8_Switch_Statement/      # Chapter 8: Switch Statements
+├── CH_9_UserInput/             # Chapter 9: User Input
+│   ├── Node_readline.js        # Node.js readline for user input
+│   ├── prompt_sync.js          # Prompt-sync library for user input
+│   └── User_Input.js           # Basic user input examples
+
 │
 ├── .sixth.code-workspace       # VS Code workspace file
 ├── Playwright_JS.code-workspace # VS Code workspace file
