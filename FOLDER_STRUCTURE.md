@@ -7,8 +7,6 @@ This document outlines the organized folder structure of the Playwright_JS repos
 ```
 Playwright_JS/
 ├── .sixth/                     # Opencode metadata (hidden)
-│   ├── CH_7_IF_ELSE/           # Chapter 7: If-Else Statements
-│   │   └── README.md           # Placeholder for if-else examples
 │   └── skills/                 # Opencode skills metadata
 │
 ├── CH_1_Basic/                 # Chapter 1: Basic Playwright concepts and setup
@@ -68,6 +66,7 @@ Playwright_JS/
 │   └── .sixth/skills/          # Duplicate opencode metadata
 │
 ├── CH_6_Operator/              # Chapter 6: Operators
+├── CH_7_IF_ELSE/               # Chapter 7: If-Else Statements
 │   ├── Operator.js             # Basic JavaScript operators introduction
 │   ├── Arithmetic_OP.js        # Arithmetic operators (+, -, *, /) examples
 │   ├── Modulus_OP.js           # Modulus operator (%) examples
@@ -99,6 +98,18 @@ Playwright_JS/
 │   ├── .sixth/                 # Opencode metadata (hidden)
 │   │   └── skills/             # Opencode skills metadata
 │   └── .sixth/skills/          # Duplicate opencode metadata
+├── CH_7_IF_ELSE/               # Chapter 7: If-Else Statements
+│   ├── API_IF_ELSE.js          # API if-else examples
+│   ├── Grade_Calc.js           # Grade calculator using if-else
+│   ├── IF_ELSE_real.js         # Real-world if-else examples
+│   ├── IF_ESLE.js              # If-else with else examples
+│   ├── IQ.js                   # If-else IQ questions
+│   ├── IQ_EVEN_ODD.js          # Even/odd checker with if-else
+│   ├── IQ_IF_ELSE.js           # IQ questions with if-else
+│   ├── If_elseif_else.js       # If-elseif-else examples
+│   ├── LEAP_YEAR.js            # Leap year checker with if-else
+│   ├── REAL_IF_ELSE.js         # Real if-else scenarios
+│   └── README.md               # Placeholder for if-else examples
 │
 ├── .sixth.code-workspace       # VS Code workspace file
 ├── Playwright_JS.code-workspace # VS Code workspace file
@@ -172,9 +183,18 @@ Playwright_JS/
 │   ├── Task_7.js
 │   ├── Task_8.js
 │   └── Task_9.js
-├── .sixth/
-│   └── CH_7_IF_ELSE/
-│       └── README.md
+├── CH_7_IF_ELSE/
+│   ├── API_IF_ELSE.js          # API if-else examples
+│   ├── Grade_Calc.js           # Grade calculator using if-else
+│   ├── IF_ELSE_real.js         # Real-world if-else examples
+│   ├── IF_ESLE.js              # If-else with else examples
+│   ├── IQ.js                   # If-else IQ questions
+│   ├── IQ_EVEN_ODD.js          # Even/odd checker with if-else
+│   ├── IQ_IF_ELSE.js           # IQ questions with if-else
+│   ├── If_elseif_else.js       # If-elseif-else examples
+│   ├── LEAP_YEAR.js            # Leap year checker with if-else
+│   ├── REAL_IF_ELSE.js         # Real if-else scenarios
+│   └── README.md               # Placeholder for if-else examples
 ├── .sixth.code-workspace
 ├── Playwright_JS.code-workspace
 ├── README.md
