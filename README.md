@@ -104,6 +104,12 @@ This repository contains Playwright JavaScript examples and exercises.
     - `Fn_Expression.js` - Function expression examples
     - `Template_literal.js` - Template literal examples in functions
     - `Type4_Fn_With_Param_With_Return.js` - Functions with parameters and return values
+    - `Arrow_Fn_REAL.js` - Arrow function examples
+    - `Default_Param_Fn.js` - Default parameter examples
+    - `IIFE.js` - Immediately Invoked Function Expression examples
+    - `IQ.js` - Function interview questions
+    - `IQ1.js` - Additional function interview questions
+    - `Rest_Param_Fn.js` - Rest parameter examples
 
 ## Requirements
 
