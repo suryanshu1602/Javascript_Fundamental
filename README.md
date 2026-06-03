@@ -110,6 +110,14 @@ This repository contains Playwright JavaScript examples and exercises.
     - `IQ.js` - Function interview questions
     - `IQ1.js` - Additional function interview questions
     - `Rest_Param_Fn.js` - Rest parameter examples
+    - `API_REAL_Closure.js` - Real-world API closure examples
+    - `Closure.js` - Closure function examples
+    - `Closure2.js` - Additional closure examples
+    - `Higher_Order_Fn.js` - Higher order function examples
+    - `IQ3.js` - Function interview question 3
+    - `Pure_Fn.js` - Pure function examples
+    - `Scope._Fn.js` - Function scope examples
+    - `Spead_IQ.js` - Spread operator interview question
 
 ## Requirements
 
