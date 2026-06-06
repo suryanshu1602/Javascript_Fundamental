@@ -115,9 +115,17 @@ This repository contains Playwright JavaScript examples and exercises.
     - `Closure2.js` - Additional closure examples
     - `Higher_Order_Fn.js` - Higher order function examples
     - `IQ3.js` - Function interview question 3
-    - `Pure_Fn.js` - Pure function examples
+    - `Pure_Fn.py` - Pure function examples
     - `Scope._Fn.js` - Function scope examples
     - `Spead_IQ.js` - Spread operator interview question
+
+- `CH_13_Strings/` - Chapter 13: Strings
+    - `Strings.js` - JavaScript string basics and examples
+    - `String_Properties.js` - String properties and methods examples
+    - `Substring.js` - Substring extraction examples
+    - `Search_Check_Str.js` - String searching and checking examples
+    - `Transform_Str.js` - String transformation examples
+    - `SC.js` - String concatenation examples
 
 ## Requirements
 
