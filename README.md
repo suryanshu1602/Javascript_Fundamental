@@ -127,6 +127,22 @@ This repository contains Playwright JavaScript examples and exercises.
     - `Transform_Str.js` - String transformation examples
     - `SC.js` - String concatenation examples
 
+- `CH_14_Objects/` - Chapter 14: Objects
+    - `Objects.js` - JavaScript objects basics and examples
+    - `Objects2.js` - Additional object examples
+    - `Objects_Creation.js` - Object creation examples
+    - `Objects_GET_SET_Methods.js` - Getter and setter methods in objects
+    - `Objects_REAL.js` - Real-world object usage examples
+    - `Primitive_Ref.js` - Primitive vs reference types examples
+    - `Obj_Examples.js` - Object examples
+    - `Obj_Decon.js` - Object destructuring examples
+    - `Obj_REAL.js` - Real object examples
+    - `Let_const_obj.js` - Let and const with objects examples
+    - `Object_Fn.js` - Object as function examples
+    - `IQ.js` - Object interview questions
+    - `IQ1,js` - Additional object interview questions
+    - `Spead.js` - Spread operator with objects examples
+
 ## Requirements
 
 - Node.js >= 14

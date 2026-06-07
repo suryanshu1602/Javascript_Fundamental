@@ -112,6 +112,22 @@
 - String transformation examples
 - String concatenation examples
 
+### CH_14_Objects: Objects
+- JavaScript objects basics and examples
+- Additional object examples
+- Object creation examples
+- Getter and setter methods in objects
+- Real-world object usage examples
+- Primitive vs reference types examples
+- Object examples
+- Object destructuring examples
+- Real object examples
+- Let and const with objects examples
+- Object as function examples
+- Object interview questions
+- Additional object interview questions
+- Spread operator with objects examples
+
 ## Getting Started
 1. Install Node.js (if not already installed)
 2. Install dependencies: `npm install`
