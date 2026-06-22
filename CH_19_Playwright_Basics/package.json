@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/suryanshu1602/Playwright_JS/issues"
   },
-  "homepage": "https://github.com/suryanshu1602/Playwright_JS#readme"
+  "homepage": "https://github.com/suryanshu1602/Playwright_JS#readme",
+  "dependencies": {
+    "playwright": "^1.61.0"
+  }
 }
