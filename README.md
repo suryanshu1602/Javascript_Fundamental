@@ -202,6 +202,23 @@ This repository contains Playwright JavaScript examples and exercises.
     - `package.json` - Project dependencies and configuration
     - `package-lock.json` - Lockfile for installed dependencies
 
+- `CH_20_Export_Import/` - Chapter 20: Export & Import
+    - `utils.js` - Exports BASE_URL and formatTestName
+    - `testutils.js` - Exports BASE_URL, formatUpperCaseString, formatTestName
+    - `EXPORT_IMPORT/` - Main import/export examples
+    - `README.md` - Chapter documentation
+    - `NOTES.md` - Additional notes
+
+- `CH_21_Classes_and_Objects/` - Chapter 21: Classes & Objects
+    - `Class_Object.js` - Basic class definition
+    - `Class_Object2.js` - Class with constructor
+    - `Real_Browser.js` - Class with constructor params
+    - `Private_Public.js` - Private and public fields
+    - `Statis.js` / `Statis2.js` - Static methods and properties
+    - `CAr.js` - Car class example
+    - `IQ.js` - Interview questions
+    - `README.md` - Chapter documentation
+
 - `CH_22_Encapsulation/` - Chapter 22: Encapsulation
     - `Ecap.js` - Encapsulation theory and examples
     - `ECap_Bank.js` - Encapsulation with bank account simulation
