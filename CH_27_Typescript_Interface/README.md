@@ -5,6 +5,7 @@
 | File | Description |
 |------|-------------|
 | `IF.ts` | TypeScript interface example — `TestCase` interface with optional properties |
+| `IF_Part2.ts` | TypeScript interface example — `APIResponse` interface with optional headers & responseTime |
 
 ## IF.ts Topics
 

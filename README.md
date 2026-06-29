@@ -249,6 +249,7 @@ This repository contains Playwright JavaScript examples and exercises.
 - `CH_26_TypeScript/` - Chapter 26: TypeScript
 - `CH_27_Typescript_Interface/` - Chapter 27: TypeScript Interface
     - `IF.ts` - TypeScript interface example (TestCase with optional properties)
+    - `IF_Part2.ts` - TypeScript interface example (APIResponse with optional headers)
     - `README.md` - Chapter documentation
     - `TS_HelloWorld.ts` - Basic TypeScript hello world with type annotations
     - `TS_HelloWorld.js` - Compiled JavaScript output from HelloWorld
