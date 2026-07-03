@@ -1,14 +1,16 @@
-function beforeSomething(method: any) {
-    return function () {
+function beforeSomething(target: any, methodName: string, descriptor: PropertyDescriptor) {
+    const original = descriptor.value;
+    descriptor.value = function () {
         console.log("EAT");
-        return method();
+        return original.apply(this);
     };
 }
 
-function BeforeSomeSomeThing(method: any) {
-    return function () {
+function BeforeSomeSomeThing(target: any, methodName: string, descriptor: PropertyDescriptor) {
+    const original = descriptor.value;
+    descriptor.value = function () {
         console.log("SLEEP");
-        return method();
+        return original.apply(this);
     };
 }
 
