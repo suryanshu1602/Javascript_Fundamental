@@ -10,6 +10,7 @@
 | `IQ.ts` | Interview-style `override` example — Father (2BHK) vs Pramod (3BHK) |
 | `Decorator.ts` | Method decorator — `@Log` logs method calls and arguments |
 | `Decortors_2.ts` | TC39 Stage 3 decorator — `@logged` wraps method with logging |
+| `Multiple_Decor.ts` | Multiple decorators on one method — `@beforeSomething` + `@BeforeSomeSomeThing` |
 
 ## Type_As.ts Topics
 
@@ -31,6 +32,13 @@
 |---|---------|------------|
 | Q1 | Method override | `override nihit_ready()` — child replaces parent's version |
 | Q2 | Polymorphism | Each child class (`LoginTest`, `APITest`) has its own behavior |
+
+## Multiple_Decor.ts Topics
+
+| # | Concept | Key Syntax |
+|---|---------|------------|
+| Q1 | Multiple decorators | `@beforeSomething` `@BeforeSomeSomeThing` — stacking behaviors |
+| Q2 | Decorator order | Bottom decorator runs first (SLEEP), top runs second (EAT) — output is EAT then SLEEP |
 
 ## Decortors_2.ts Topics
 
@@ -62,4 +70,5 @@ npx tsx CH_31_Type_Overide_Decortors/Override.ts
 npx tsx CH_31_Type_Overide_Decortors/IQ.ts
 npx tsx CH_31_Type_Overide_Decortors/Decorator.ts
 npx tsx CH_31_Type_Overide_Decortors/Decortors_2.ts
+npx tsx CH_31_Type_Overide_Decortors/Multiple_Decor.ts
 ```
