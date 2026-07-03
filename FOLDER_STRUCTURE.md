@@ -1,6 +1,6 @@
-# Playwright_JS - Folder Structure
+# JavaScript - Folder Structure
 
-This document outlines the organized folder structure of the Playwright_JS repository.
+This document outlines the organized folder structure of the JavaScript repository.
 
 ## Main Directory Structure
 

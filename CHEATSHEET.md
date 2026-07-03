@@ -1,4 +1,4 @@
-# Playwright_JS Cheat Sheet
+# JavaScript Cheat Sheet
 
 ## Chapters Overview
 

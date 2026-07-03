@@ -1,6 +1,6 @@
-# Playwright_JS
+# JavaScript
 
-This repository contains Playwright JavaScript examples and exercises.
+This repository contains JavaScript examples and exercises.
 
 ## Structure
 
