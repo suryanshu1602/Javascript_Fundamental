@@ -8,6 +8,8 @@
 | `Type_Alias_As.ts` | Type assertion with `as` — casting API response to typed interface |
 | `Override.ts` | Method `override` — child classes replace parent method behavior |
 | `IQ.ts` | Interview-style `override` example — Father (2BHK) vs Pramod (3BHK) |
+| `Decorator.ts` | Method decorator — `@Log` logs method calls and arguments |
+| `Decortors_2.ts` | TC39 Stage 3 decorator — `@logged` wraps method with logging |
 
 ## Type_As.ts Topics
 
@@ -30,6 +32,20 @@
 | Q1 | Method override | `override nihit_ready()` — child replaces parent's version |
 | Q2 | Polymorphism | Each child class (`LoginTest`, `APITest`) has its own behavior |
 
+## Decortors_2.ts Topics
+
+| # | Concept | Key Syntax |
+|---|---------|------------|
+| Q1 | TC39 decorator | `@logged` — modern decorator with `(originalMethod, context)` signature |
+| Q2 | Wrapper pattern | `return function(...)` — replaces original with wrapped version |
+
+## Decorator.ts Topics
+
+| # | Concept | Key Syntax |
+|---|---------|------------|
+| Q1 | Method decorator | `@Log` — wraps a method to add behavior |
+| Q2 | PropertyDescriptor | `descriptor.value` — the original method being wrapped |
+
 ## IQ.ts Topics
 
 | # | Concept | Key Syntax |
@@ -44,4 +60,6 @@ npx tsx CH_31_Type_Overide_Decortors/Type_As.ts
 npx tsx CH_31_Type_Overide_Decortors/Type_Alias_As.ts
 npx tsx CH_31_Type_Overide_Decortors/Override.ts
 npx tsx CH_31_Type_Overide_Decortors/IQ.ts
+npx tsx CH_31_Type_Overide_Decortors/Decorator.ts
+npx tsx CH_31_Type_Overide_Decortors/Decortors_2.ts
 ```
