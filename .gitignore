@@ -1,9 +1,4 @@
-# Ignore generated folders and local test artifacts
+*.js
+*.js.map
 node_modules/
-**/node_modules/
-test-results/
-**/test-results/
-.DS_Store
-npm-debug.log*
-yarn-error.log*
-**/out/
+dist/
